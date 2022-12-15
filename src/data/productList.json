@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Springs Robot",
+      "detail": "Super Springs Robot",
+      "price": 70,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": "2",
+      "name": "Seargent Robot",
+      "detail": "Super Seargent Robot",
+      "price": 129,
+      "imageUrl": "https://source.unsplash.com/random/400x400"
+    },
+    {
+      "id": "3",
+      "name": "Aloha Robot",
+      "detail": "Super Aloha Robot",
+      "price": 20,
+      "imageUrl": "https://source.unsplash.com/random/400x400"
+    },
+    {
+      "id": "4",
+      "name": "Slow Robot",
+      "detail": "Super Slow Robot",
+      "price": 99,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": "5",
+      "name": "Machine Robot",
+      "detail": "Super Machine Robot",
+      "price": 300,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": "6",
+      "name": "Watter Robot",
+      "detail": "Super Watter Robot",
+      "price": 45,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": "7",
+      "name": "Fire Robot",
+      "detail": "Super Fire Robot",
+      "price": 47,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": "8",
+      "name": "Air Robot",
+      "detail": "Super Air Robot",
+      "price": 50,
+      "imageUrl": "https://source.unsplash.com/random/300x300"
+    }
+  ]
+}
