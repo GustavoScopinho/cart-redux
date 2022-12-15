@@ -9,9 +9,6 @@ import productList from '../../data/productList.json'
 import styles from './ConteudoHome.module.css'
 
 export const ConteudoHome = () => {
-  productList.products.map(product => {
-    console.log(product.id)
-  })
   return (
     <>
       <div className={styles.ContainerHome}>
